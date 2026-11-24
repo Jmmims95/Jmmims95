@@ -1,16 +1,22 @@
-## Hi there 👋
+# John Mims
 
-<!--
-**Jmmims95/Jmmims95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is John. I’m based in North Augusta, South Carolina, where I was born and raised. I’ve been interested in technology for more than 15 years, and I’m pursuing an opportunity in application development.
 
-Here are some ideas to get you started:
+I’m familiar with Microsoft products, especially Microsoft Access, and I’ve spent time learning SQL, HTML, CSS, JavaScript, and the basics of web design. I enjoy figuring out how things work and using what I learn to solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My military experience is part of the perspective I bring to new challenges. Outside of tech, I enjoy spending time with friends and family.
+
+## About this page
+
+I built this site to introduce myself, share what I’m learning, and create a place for future projects. I mostly like to play around with HTML, CSS, and JavaScript.
+
+## Skills and interests
+
+- Microsoft products and Microsoft Access
+- SQL and data organization
+- HTML, CSS, JavaScript, and web design
+- Application development and practical problem-solving
+
+## Connect
+
+You can find me here on [GitHub](https://github.com/Jmmims95).
