@@ -1,4 +1,4 @@
-# John Mims
+# About me:
 
 Hi, my name is John. I’m based in North Augusta, South Carolina, where I was born and raised. I’ve been interested in technology for more than 15 years, and I’m pursuing an opportunity in application development.
 
@@ -6,7 +6,7 @@ I’m familiar with Microsoft products, especially Microsoft Access, and I’ve 
 
 My military experience is part of the perspective I bring to new challenges. Outside of tech, I enjoy spending time with friends and family.
 
-## About this page
+## About my pages:
 
 I built this site to introduce myself, share what I’m learning, and create a place for future projects. I mostly like to play around with HTML, CSS, and JavaScript.
 
